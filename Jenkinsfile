@@ -1,5 +1,6 @@
 
 // Edited in central repo
+// Edited in local repo
 pipeline {
 	agent any
 	stages{
